@@ -1,0 +1,9 @@
+/* 기본 리셋 + 배경 */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Noto Sans, Arial, sans-serif;
+  background: #0b0c10;
+  color: #fff;
+}
